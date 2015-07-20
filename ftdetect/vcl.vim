@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.vcl set filetype=vcl
+au BufRead,BufNewFile *.vcl,*.vtc set filetype=vcl
